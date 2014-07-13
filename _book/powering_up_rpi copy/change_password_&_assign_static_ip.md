@@ -70,6 +70,7 @@ allow-hotplug wlan0
 iface wlan0 inet manual
 wpa-roam /etc/wpa_supplicant/wpa_supplicant.conf
 iface default inet dhcp
+sui
 ```
 
 **Double-check** the parameters and save! <kbd>(CTRL+X)</kbd>

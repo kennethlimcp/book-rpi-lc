@@ -42,7 +42,7 @@ https://community.spark.io/t/tutorial-local-cloud-1st-time-instructions/5589
 <br><br>
 Have fun!
 
-k****
+k
 
 <br>
 <br>

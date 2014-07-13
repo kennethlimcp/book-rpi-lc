@@ -6,7 +6,7 @@
 * Download the **RASPBIAN** image
 
 
-<img src="http://kennethlimcp.gitbooks.io/spark-local-cloud-on-raspberry-pi/preparing_sd_card/images/rpi-dl.png" width="320" height="138">
+<img src="http://kennethlimcp.gitbooks.io/spark-local-cloud-on-raspberry-pi/preparing_sd_card/images/rpi-dl-small.png" width="320" height="138">
 
 <br>
 <br>

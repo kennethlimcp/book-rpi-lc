@@ -6,4 +6,8 @@ Don't forget the **Ethernet** cable.
 
 You should notice some **LED activity** on the **Tx and Rx**.
 
-**INSERT PHOTO OF LED ACTIVITY**
+<img src="images/rpi-ledlight-small.jpg" width="240" height="161">
+
+<br>
+<br>
+*Licensed under: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)*

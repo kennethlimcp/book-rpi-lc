@@ -1,0 +1,1 @@
+# Setup init.d script

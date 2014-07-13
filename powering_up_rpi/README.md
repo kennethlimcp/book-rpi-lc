@@ -6,7 +6,7 @@ Don't forget the **Ethernet** cable.
 
 You should notice some **LED activity** on the **Tx and Rx**.
 
-<img src="images/rpi-ledlight-small.jpg" width="240" height="161">
+<img src="http://kennethlimcp.gitbooks.io/spark-local-cloud-on-raspberry-pi/powering_up_rpi/images/rpi-ledlight-small.jpg" width="240" height="161">
 
 <br>
 <br>

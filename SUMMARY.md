@@ -12,6 +12,5 @@
 * [Install Node.js](install_nodejs/README.md)
 * [Install Git](install_git/README.md)
 * [Install Local Cloud Repo](install_local_cloud_repo/README.md)
-* [Fire up Local Cloud!](fire_up_local_cloud/README.md)
+* [Fire up Local Cloud!](fire_up_local_cloud!/README.md)
 * [Setup init.d script](setup_initd_script/README.md)
-

@@ -18,17 +18,6 @@ pi@raspberrypi ~ $ node -v
 v0.10.29
 ```
 
-4.) the package manager for Node.js will also be required.
-
-So: `sudo apt-get install npm
-
-```
-pi@raspberrypi ~ $ sudo apt-get install npm
-Reading package lists... Done
-Building dependency tree
-Reading state information... Done
-```
-
 <br>
 <br>
 *Licensed under: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)*

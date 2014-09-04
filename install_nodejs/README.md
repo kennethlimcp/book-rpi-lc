@@ -4,7 +4,7 @@ Original reference from: https://learn.adafruit.com/raspberry-pi-hosting-node-re
 
 1.) Download the package made compatible for Pi with:
 
-`sudo wget http://node-arm.herokuapp.com/node_latest_armhf.deb`
+`wget http://node-arm.herokuapp.com/node_latest_armhf.deb`
 
 2.) Install the debian package:
 
@@ -16,17 +16,6 @@ Original reference from: https://learn.adafruit.com/raspberry-pi-hosting-node-re
 pi@raspberrypi ~ $ node -v
 
 v0.10.29
-```
-
-4.) the package manager for Node.js will also be required.
-
-So: `sudo apt-get install npm
-
-```
-pi@raspberrypi ~ $ sudo apt-get install npm
-Reading package lists... Done
-Building dependency tree
-Reading state information... Done
 ```
 
 <br>

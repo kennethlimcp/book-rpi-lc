@@ -21,9 +21,9 @@ Receiving objects: 100% (272/272), 61.07 KiB | 80 KiB/s, done.
 Resolving deltas: 100% (155/155), done.
 ```
 <br>
-3.) go to the `spark-server/js` folder
+3.) go to the `spark-server` folder
 
-`cd spark-server/js`
+`cd spark-server`
 
 <br>
 4) Install the module!
@@ -52,7 +52,7 @@ Another issue came up with the `express` module so...
 
 ```
 cd
-cd spark-server/js
+cd spark-server
 npm install express -verbose`
 ```
 
@@ -66,7 +66,7 @@ Commands summary list:
 
 ```
 git clone git@github.com:spark/spark-server.git
-cd spark-server/js
+cd spark-server
 npm install
 node main.js
 ```

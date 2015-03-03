@@ -3,12 +3,12 @@
 
 1.) fire up the server, baby!
 
-`node main.js` in the `spark-server/js` folder
+`node main.js` in the `spark-server` folder
 
 This will have some lag for the first time when the Rpi creates a new key.
 
 ```
-pi@raspberrypi ~/spark-server/js $ node main.js
+pi@raspberrypi ~/spark-server $ node main.js
 -------
 No users exist, you should create some users!
 -------
